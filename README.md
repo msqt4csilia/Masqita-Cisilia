@@ -34,10 +34,10 @@
 </html>
 </nav>
 <center><h1>WELCOME TO Libraries </h1>
-<img src="https://akcdn.detik.net.id/visual/2015/01/06/7aeb76f2-5669-46ec-9882-90552bef85ff_169.jpg?w=650&q=90" style="width:1340px;height:300px;" align="middle">
+<img src="c:\Users\ASUS\Downloads\609931bb5334c.jpg" style="width:1340px;height:300px;" align="middle">
 <hr></hr>
 <center><table border="l">
-<th><h3 style="color:red"> About this Website </h3></th>
+<th><h3 style="color:rgb(255, 238, 0)"> About this Website </h3></th>
 <tr>
 <td>
 <p> Halo! Terima kasih telah mengunjungi website ini </p>
