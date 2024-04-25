@@ -1,7 +1,7 @@
 #Masqita-Cisilia
 
 <title>Masqita Cisilia's Website</title>
-<style type="text/css">body{background-color:rgb(135, 62, 75)}</style>
+<style type="text/css">body{background-color:rgb(62, 87, 135)}</style>
 <body>
 <script>
             alert("SELAMAT DATANG DI WEB PRIBADI SAYA");
@@ -15,7 +15,7 @@
 <script>
         document.write("<h1>Hello World!</h1>");
 			</script>
-<style>.mainmenubtn{background-color:rgb(255, 0, 140);color:#995d85;border:none;cursor:pointer;padding:20px;margin-top:20px}.mainmenubtn:hover{background-color:#fff}.dropdown{position:relative;display:inline-block}.dropdown-child{display:none;background-color:#fff;min-width:200px}.dropdown-child a{color:maroon;padding:20px;text-decoration:none;display:block}.dropdown:hover .dropdown-child{display:block}</style>
+<style>.mainmenubtn{background-color:rgb(131, 111, 122);color:#f7f0f2;border:none;cursor:pointer;padding:20px;margin-top:20px}.mainmenubtn:hover{background-color:#fff}.dropdown{position:relative;display:inline-block}.dropdown-child{display:none;background-color:#fff;min-width:200px}.dropdown-child a{color:maroon;padding:20px;text-decoration:none;display:block}.dropdown:hover .dropdown-child{display:block}</style>
 <link rel="dns-prefetch" href="//www.suarasurabaya.net"></head>
 <div class="dropdown">
 <button class="mainmenubtn">TUGAS MODUL PRAKTIK</button>
@@ -34,7 +34,7 @@
 </html>
 </nav>
 <center><h1>WELCOME TO Libraries </h1>
-<img src="c:\Users\ASUS\Downloads\609931bb5334c.jpg" style="width:1340px;height:300px;" align="middle">
+<img src="badung-tambah-koleksi-buku-perpustakaan-sd-senila-800-2018-08-13-105154_0.jpg" style="width:1340px;height:300px;" align="middle">
 <hr></hr>
 <center><table border="l">
 <th><h3 style="color:rgb(255, 238, 0)"> About this Website </h3></th>
@@ -49,3 +49,6 @@
 </footer>
 </body>
 </html
+
+
+
