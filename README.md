@@ -46,7 +46,6 @@
 </tr>
 </table></center>
 <footer style="text-align: center;">
-<p>Copyright &copy; Libertina - 210709032</p>
 </footer>
 </body>
-</html>
+</html
