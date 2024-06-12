@@ -105,7 +105,7 @@ Masqita Cisilia Sibarani
 <a href="Modul 2 Nomor 2.html">Form Perpanjangan Peminjaman Buku</a>
 <a href="Modul 3 Nomor 2.html">Pengenalan HTML dan CSS dengan Variasi CSS</a>
 <a href="Modul 4">Halaman web menu dan dropdown menu
-<a href="Modul 5.html">Data dalam Javascript & halaman html</a>
+<a href="Modul 5.html">Data dalam Javascript & hal html</a>
 <a href="Modul 6.html">Web perpustakaan javascript, dan query</a>
 <a href="Modul 8.html">Kolom Database</a>
 
