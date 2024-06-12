@@ -20,8 +20,7 @@
 <div class="dropdown">
 <button class="mainmenubtn">TUGAS MODUL PRAKTIK</button>
 <div class="dropdown-child">
-<a href="index.html">Homepage</a><!DOCTYPE html>
-<html lang="en">
+<a href="index.html">Homepage</a>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -108,13 +107,10 @@
 <a href="Modul 4">Halaman web menu dan dropdown menu
 <a href="Modul 5.html">Data dalam Javascript, halaman html</a>
 
-</div>
-</body>
-</html>
-</nav>
+
 <center><h1>WELCOME TO Libraries </h1>
 <img src="badung-tambah-koleksi-buku-perpustakaan-sd-senila-800-2018-08-13-105154_0.jpg" style="width:1340px;height:300px;" align="middle">
-<hr></hr>
+
 <center><table border="l">
 <th><h3 style="color:rgb(255, 238, 0)"> About this Website </h3></th>
 <tr>
@@ -126,8 +122,5 @@
 </table></center>
 <footer style="text-align: center;">
 </footer>
-</body>
-</html
-
 
 
