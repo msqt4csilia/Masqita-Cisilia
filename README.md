@@ -47,7 +47,7 @@ Masqita Cisilia Sibarani
   <div class="column">
     <table class="table table-bordered">
       <thead>
-        <tr>
+        
           <th>No</th>
           <th>Judul Buku</th>
           <th>Penulis</th>
