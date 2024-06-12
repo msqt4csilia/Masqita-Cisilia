@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Javascript Library</title>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<style>table{width:100%;border-collapse:collapse}th,td{padding:8px;text-align:left;border-bottom:1px solid #13090d}tr:hover{background-color:rgb(247, 244, 241)}.highlight{background-color:#2854b3}body{background-color:#0b0f0f}</style>
+</head>
+<body>
+<h1 style="text-align: center; color: rgb(255, 252, 251); background: rgb(21, 22, 22);">Koleksi Novel Perpustakaan</h1>
+<table id="library-table">
+<thead>
+<tr>
+<th>Judul Buku</th>
+<th>Penerbit</th>
+<th>Tahun Terbit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The Midnight Library</td>
+<td>Matt Haig</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>Where the Crawdads Sing</td>
+<td>Delia Owens</td>
+<td>2018</td>
+</tr>
+<tr>
+<td>The Vanishing Half</td>
+<td>Brit Benett</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>Mexican Gothic</td>
+<td>Silvia Moreno-Garcia</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>Such a Fun Age</td>
+<td>Kiley Reid</td>
+<td>2019</td>
+</tr>
+<tr>
+<td>Transcedent Kingdom</td>
+<td>Yaa Gyasi</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>The Guest List</td>
+<td>Lucy Foley</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>Anxious People</td>
+<td>Fredrik Backman</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>Leave the world behind</td>
+<td>Rumaan Alam</td>
+<td>2010</td>
+</tr>
+</tbody>
+</table>
+<script>$(document).ready(function(){$("#library-table").DataTable({paging:false,searching:true,ordering:true});$("tr").mouseover(function(){$(this).addClass("highlight");});$("tr").mouseout(function(){$(this).removeClass("highlight");});$("th").addClass("animate_animated animate_bounce");});</script>
+</body>
+</html>
+
+
+
+
+
+
+
