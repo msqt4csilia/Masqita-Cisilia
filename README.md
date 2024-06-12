@@ -116,7 +116,7 @@ Masqita Cisilia Sibarani
 <th><h3 style="color:rgb(255, 238, 0)"> About this Website </h3></th>
 <tr>
 <td>
-<p> Halo! Terima kasih telah mengunjungi website ini </p>
+<p> Halo! Terima kasih telah mengunjungi website perpustakaan ini </p>
 <p style="text-align: justify;"> Website ini dibuat untuk memenuhi tugas pada mata kuliah Pemrograman Web Praktik dengan dosen pengampu Ibu Himma Dewiyana, S.T., M.Hum pada program studi S-1 Perpustakaan dan Sains Informasi, Fakultas Ilmu Budaya, Universitas Sumatera Utara </p>
 </td>
 </tr>
