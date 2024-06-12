@@ -1,4 +1,4 @@
-#Masqita-Cisilia
+Masqita Cisilia Sibarani
 
 <title>Masqita Cisilia's Website</title>
 <style type="text/css">body{background-color:rgb(62, 87, 135)}</style>
@@ -21,7 +21,7 @@
 <button class="mainmenubtn">TUGAS MODUL PRAKTIK</button>
 <div class="dropdown-child">
 <a href="index.html">Homepage</a>
-<head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Perpustakaan 888.Ludic</title>
