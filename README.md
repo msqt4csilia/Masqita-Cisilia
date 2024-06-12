@@ -13,7 +13,7 @@ Masqita Cisilia Sibarani
         console. log ( "Hallo World") ;
 			</script>
 <script>
-        document.write("<h1>Hello World!</h1>");
+        document.write("<h1>Selamat Datang!</h1>");
 			</script>
 <style>.mainmenubtn{background-color:rgb(131, 111, 122);color:#f7f0f2;border:none;cursor:pointer;padding:20px;margin-top:20px}.mainmenubtn:hover{background-color:#fff}.dropdown{position:relative;display:inline-block}.dropdown-child{display:none;background-color:#fff;min-width:200px}.dropdown-child a{color:maroon;padding:20px;text-decoration:none;display:block}.dropdown:hover .dropdown-child{display:block}</style>
 <link rel="dns-prefetch" href="//www.suarasurabaya.net"></head>
@@ -38,7 +38,6 @@ Masqita Cisilia Sibarani
   padding: 15px;
 }
 </style>
-</head>
 <body>
 <div class="container">
   <div class="column">
