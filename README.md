@@ -107,6 +107,7 @@ Masqita Cisilia Sibarani
 <a href="Modul 4">Halaman web menu dan dropdown menu
 <a href="Modul 5.html">Data dalam Javascript, halaman html</a>
 <a href="Modul 6.html">Web perpustakaan javascript, dan query</a>
+<a href="Modul 8.html">kolom Database</a>
 
 
 <center><h1>WELCOME TO Libraries </h1>
