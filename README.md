@@ -106,7 +106,6 @@ Masqita Cisilia Sibarani
 <a href="Modul 4">Halaman web menu dan dropdown menu
 <a href="Modul 5.html">Data dalam Javascript & hal html</a>
 <a href="Modul 6.html">Web perpustakaan javascript, dan query</a>
-<a href="Modul 7.html">Menghitung & Kalkulator</a>
 <a href="Modul 8.html">Kolom Database</a>
 
 
