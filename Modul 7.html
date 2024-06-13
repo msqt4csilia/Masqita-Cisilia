@@ -1,0 +1,151 @@
+<P> Modul 7</P>
+
+<head>
+    <title>Mari Belajar PHP</title>
+</head>
+<body>
+
+<table border="1">
+    <tr>
+        <th>Belajar PHP</th>
+    </tr>
+    
+
+    <?php
+    for ($i = 1; $i <= 1000; $i++) {
+        echo "<tr><td>hari ke-1 belajar PHP</td></tr>
+        <tr><td>hari ke-2 belajar PHP</td></tr>
+        <tr><td>hari ke-3 belajar PHP</td></tr>
+        <tr><td>hari ke-4 belajar PHP</td></tr>
+        <tr><td>hari ke-5 belajar PHP</td></tr>
+        <tr><td>hari ke-6 belajar PHP</td></tr>
+        <tr><td>hari ke-7 belajar PHP</td></tr>
+        <tr><td>hari ke-8 belajar PHP</td></tr>
+        <tr><td>hari ke-9 belajar PHP</td></tr>
+        <tr><td>hari ke-10 belajar PHP</td></tr>
+        <tr><td>hari ke-11 belajar PHP</td></tr>
+        <tr><td>hari ke-12 belajar PHP</td></tr>
+        <tr><td>hari ke-13 belajar PHP</td></tr>
+        <tr><td>hari ke-14 belajar PHP</td></tr>
+        <tr><td>hari ke-15 belajar PHP</td></tr>
+        <tr><td>hari ke-16 belajar PHP</td></tr>
+        <tr><td>hari ke-17 belajar PHP</td></tr>
+        <tr><td>hari ke-18 belajar PHP</td></tr>
+        <tr><td>hari ke-19 belajar PHP</td></tr>
+        <tr><td>hari ke-20 belajar PHP</td></tr>
+        <tr><td>hari ke-21 belajar PHP</td></tr>
+        <tr><td>hari ke-22 belajar PHP</td></tr>
+        <tr><td>hari ke-23 belajar PHP</td></tr>
+        <tr><td>hari ke-24 belajar PHP</td></tr>
+        <tr><td>hari ke-25 belajar PHP</td></tr>
+        <tr><td>hari ke-26 belajar PHP</td></tr>
+        <tr><td>hari ke-27 belajar PHP</td></tr>
+        <tr><td>hari ke-28 belajar PHP</td></tr>
+        <tr><td>hari ke-29 belajar PHP</td></tr>
+        <tr><td>hari ke-30 belajar PHP</td></tr>
+        <tr><td>hari ke-31 belajar PHP</td></tr>
+        <tr><td>hari ke-32 belajar PHP</td></tr>
+        <tr><td>hari ke-33 belajar PHP</td></tr>
+        <tr><td>hari ke-34 belajar PHP</td></tr>
+        <tr><td>hari ke-35 belajar PHP</td></tr>
+        <tr><td>hari ke-36 belajar PHP</td></tr>
+        <tr><td>hari ke-37 belajar PHP</td></tr>
+        <tr><td>hari ke-38 belajar PHP</td></tr>
+        <tr><td>hari ke-39 belajar PHP</td></tr>
+        <tr><td>hari ke-40 belajar PHP</td></tr>
+    
+    
+</table>
+
+</body>
+</html>
+
+
+<br></Br>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator Sederhana</title>
+    <script>
+        function hitung() {
+            var bilangan1 = parseFloat(document.getElementById("bilangan1").value);
+            var bilangan2 = parseFloat(document.getElementById("bilangan2").value);
+            var operasi = document.getElementById("operasi").value;
+            var hasil;
+
+            if (operasi === "tambah") {
+                hasil = bilangan1 + bilangan2;
+            } else if (operasi === "kurang") {
+                hasil = bilangan1 - bilangan2;
+            } else if (operasi === "kali") {
+                hasil = bilangan1 * bilangan2;
+            } else if (operasi === "bagi") {
+                hasil = bilangan1 / bilangan2;
+            }
+
+            document.getElementById("hasil_perhitungan").innerText = "Hasil: " + hasil;
+        }
+    </script>
+</head>
+<body>
+    <h2>Operasi Bilangan</h2>
+    <label for="bilangan1">Bilangan 1:</label>
+    <input type="number" id="bilangan1" name="bilangan1" required><br><br>
+    
+    <label for="bilangan2">Bilangan 2:</label>
+    <input type="number" id="bilangan2" name="bilangan2" required><br><br>
+    
+    <label for="operasi">Operasi:</label>
+    <select id="operasi" name="operasi" required>
+        <option value="tambah">Penjumlahan (+)</option>
+        <option value="kurang">Pengurangan (-)</option>
+        <option value="kali">Perkalian (*)</option>
+        <option value="bagi">Pembagian (/)</option>
+    </select><br><br>
+    
+    <button type="button" onclick="hitung()">Hitung</button><br><br>
+
+   <h2> <div id="hasil_perhitungan"></div></h2>
+</body>
+</html>
+
+
+<br> </Br>
+
+<h2>Login </h2>
+
+<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required><br><br>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required><br><br>
+
+    <input type="submit" name="login" value="Login">
+</form>
+
+<?php
+// Cek login
+if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['login'])) {
+    $username = $_POST['username'];
+    $password = $_POST['password'];
+
+    // Misalnya, username dan password adalah "admin"
+    $valid_username = "admin";
+    $valid_password = "admin123";
+
+    
+
+</body>
+</html>
+
+<script>
+    var listHari = document.getElementById('listHari');
+    for (var i = 1; i <= 1000; i++) {
+        var listItem = document.createElement('li');
+        listItem.textContent = "Ini adalah hari ke-" + i + " belajar php";
+        listHari.appendChild(listItem);
+    }
+</script>
