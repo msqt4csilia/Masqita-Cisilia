@@ -10,7 +10,7 @@ Masqita Cisilia Sibarani - 210709069
             }
         </script>
 <script>
-        console. log ( "Hello, WELCOME!") ;
+        console. log ( "Hello, Welcome!") ;
 			</script>
 <script>
         document.write("<h1>Selamat Datang!</h1>");
