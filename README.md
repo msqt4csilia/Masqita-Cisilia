@@ -1,4 +1,4 @@
-Masqita Cisilia Sibarani
+Masqita Cisilia Sibarani - 210709069
 
 <title>Masqita Cisilia's Website</title>
 <style type="text/css">body{background-color:rgb(62, 87, 135)}</style>
@@ -10,7 +10,7 @@ Masqita Cisilia Sibarani
             }
         </script>
 <script>
-        console. log ( "Hello World") ;
+        console. log ( "Hello, WELCOME!") ;
 			</script>
 <script>
         document.write("<h1>Selamat Datang!</h1>");
@@ -106,6 +106,7 @@ Masqita Cisilia Sibarani
 <a href="Modul 4">Halaman web menu dan dropdown menu
 <a href="Modul 5.html">Data dalam Javascript & hal html</a>
 <a href="Modul 6.html">Web perpustakaan javascript, dan query</a>
+<a href="Modul 7.html">PHP</a>
 <a href="Modul 8.html">Kolom Database</a>
 
 
