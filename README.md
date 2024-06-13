@@ -10,7 +10,7 @@ Masqita Cisilia Sibarani
             }
         </script>
 <script>
-        console. log ( "Hallo World") ;
+        console. log ( "Hello World") ;
 			</script>
 <script>
         document.write("<h1>Selamat Datang!</h1>");
@@ -18,7 +18,7 @@ Masqita Cisilia Sibarani
 <style>.mainmenubtn{background-color:rgb(131, 111, 122);color:#f7f0f2;border:none;cursor:pointer;padding:20px;margin-top:20px}.mainmenubtn:hover{background-color:#fff}.dropdown{position:relative;display:inline-block}.dropdown-child{display:none;background-color:#fff;min-width:200px}.dropdown-child a{color:maroon;padding:20px;text-decoration:none;display:block}.dropdown:hover .dropdown-child{display:block}</style>
 <link rel="dns-prefetch" href="//www.suarasurabaya.net"></head>
 <div class="dropdown">
-<button class="mainmenubtn">TUGAS MODUL PRAKTIK</button>
+<button class="mainmenubtn">MODUL PRAKTIK</button>
 <div class="dropdown-child">
 <a href="index.html">Homepage</a>
 
@@ -106,10 +106,11 @@ Masqita Cisilia Sibarani
 <a href="Modul 4">Halaman web menu dan dropdown menu
 <a href="Modul 5.html">Data dalam Javascript & hal html</a>
 <a href="Modul 6.html">Web perpustakaan javascript, dan query</a>
+<a href="Modul 7.html">Menghitung & Kalkulator</a>
 <a href="Modul 8.html">Kolom Database</a>
 
 
-<center><h1>WELCOME TO Libraries </h1>
+<center><h1>WELCOME TO LIBRARIES! </h1>
 <img src="badung-tambah-koleksi-buku-perpustakaan-sd-senila-800-2018-08-13-105154_0.jpg" style="width:1340px;height:300px;" align="middle">
 
 <center><table border="l">
